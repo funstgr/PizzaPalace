@@ -1,0 +1,77 @@
+/* 
+    Document   : pizza
+    Created on : Mar 6, 2013, 9:41:35 AM
+    Author     : Greg
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body{
+	background-color: #FFFF99;
+}
+
+.header{
+	text-align: center;
+	font-size: 30px;
+	background-color: #FFCC00;
+	padding: 30px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #CC6600;
+	border-radius: 10px;
+}
+
+.mainDiv{
+	height: 500px;
+	padding-top: 10px;	
+	position: relative;
+}
+
+.innerDivs{
+	padding: 1.9%;
+}
+
+.lhsDiv{
+	width: 30%;
+	float: left;
+	background-color: #FFCC00;
+	position: absolute;
+	left: 0px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #CC6600;
+	border-radius: 10px;
+}
+
+.rhsDiv{
+	width: 59%;
+	float: left;
+	background-color: #FFCC00;
+	position: absolute;
+	right: 0px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #CC6600;
+	border-radius: 10px;
+}
+
+.pizzaTable{
+	width: 100%;
+}
+
+.pName{
+	text-align: left;
+}
+
+.pNum{
+	text-align: left;
+}
+
+.price{
+	text-align: right;
+}
+
