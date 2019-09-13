@@ -1,4 +1,4 @@
-## Java Poker Table 2 player 5 card stud dealer and analysis Engine with JUnit tests
+## Java Pizza Palace Web App with API
 This is a java based Web App which uses properties file to act as a database for API operations. It is built on top of Spring and can be launched in any tomcat server which is capable of deploying a war. 
 
 This was built in 2012 and uses JQuery 
